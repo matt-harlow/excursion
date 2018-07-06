@@ -1,0 +1,24 @@
+* {
+	font-family:verdana;
+	text-align:center;
+	background-color:black;
+}
+
+h1,
+h2{
+	color:white;
+}
+
+p {
+	font-size:21px;
+	color:gray;
+}
+
+#download {
+	color:aquamarine;
+	font-size:16px;
+}
+
+#copyright {
+	text-align:right;
+}
